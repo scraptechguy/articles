@@ -19,6 +19,8 @@ these concepts are then implemented using the Python programming language and th
 accelerated graphics library. These tools allow the program to handle hundreds of thousands
 of triangles and effectively display asteroids such as (101955) Bennu.
 
+#### The program was created in collaboration with the Faculty of Mathematics and Physics of the Charles University.
+
 ### .pdf also available <a href="https://sirrah.troja.mff.cuni.cz/~mira/tmp/diplomky/Broz_2024.pdf">here</a>
 
 # Determining Object Parameters from Visible Spectrum Image
