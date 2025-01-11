@@ -21,8 +21,14 @@ of triangles and effectively display asteroids such as (101955) Bennu.
 
 #### The program was created in collaboration with the Faculty of Mathematics and Physics of the Charles University.
 
-### .pdf also available <a href="https://sirrah.troja.mff.cuni.cz/~mira/tmp/diplomky/Broz_2024.pdf">here</a>
+#### .pdf also available <a href="https://sirrah.troja.mff.cuni.cz/~mira/tmp/diplomky/Broz_2024.pdf">here</a>
+
+<a href="https://github.com/scraptechguy/tvet">Home repository</a>
 
 # Determining Object Parameters from Visible Spectrum Image
 
+<a href="https://github.com/scraptechguy/enkip">Home repository</a>
+
 # Accelerated Object Recognition with the Raspberry Pi AI HAT+
+
+<a href="">Home repository</a>
